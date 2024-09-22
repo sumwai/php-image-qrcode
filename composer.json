@@ -10,5 +10,8 @@
     "require": {
         "chillerlan/php-qrcode": "^5.0"
     },
-    "license": "MIT,APACHE-2.0"
+    "license": [
+        "MIT", "APACHE-2.0"
+    ]
+    
 }
