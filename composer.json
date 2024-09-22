@@ -1,0 +1,13 @@
+{
+    "name": "sumwai/image-qrcode",
+    "description": "qrcode and image extends",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "chillerlan/php-qrcode": "^5.0"
+    }
+}
